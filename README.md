@@ -25,7 +25,7 @@ Please import this library before using this repository.
 
 |Module|Connection Type |function |
 |:---|:---|:---|
-|[IOExpander](./tree/master/IOExpander16ch)     |I2C     |Isolated input/output via I2C   |
+|[IOExpander](./IOExpander16ch/)     |I2C     |Isolated input/output via I2C   |
 |DigitalOutput  |GPIO    |Isolated output  |
 |DigitalInput   |GPIO    |Isolated input   |
 |      |    |(We will increase the lineup in the future...)   |
