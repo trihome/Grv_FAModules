@@ -23,15 +23,15 @@ Please import this library before using this repository.
 
 ## 2.Line up
 
-|Directory      |Connection Type |function |
-|---|---|---|
-|CurrentSensor  |Analog  |Current measurement using CT  |
+|Module|Connection Type |function |
+|:---|:---|:---|
+|[IOExpander](./tree/master/IOExpander16ch)     |I2C     |Isolated input/output via I2C   |
 |DigitalOutput  |GPIO    |Isolated output  |
 |DigitalInput   |GPIO    |Isolated input   |
-|[IOExpander](./IOExpander)     |I2C     |Isolated input/output via I2C   |
-|SigTowSensor   |Analog  |Detect tower light status   |
-|SimpleUPS      |GPIO    |Manage the power supply to RaspberryPi   |
 |      |    |(We will increase the lineup in the future...)   |
+<!--|CurrentSensor  |Analog  |Current measurement using CT  |
+|SigTowSensor   |Analog  |Detect tower light status   |
+|SimpleUPS      |GPIO    |Manage the power supply to RaspberryPi   |-->
 
 ## 3.How to connect to microcomputer board
 
