@@ -26,8 +26,8 @@ Please import this library before using this repository.
 |Module|Connection Type |function |
 |:---|:---|:---|
 |[IOExpander](./IOExpander16ch/)     |I2C     |Isolated input/output via I2C   |
-|DigitalOutput  |GPIO    |Isolated output  |
-|DigitalInput   |GPIO    |Isolated input   |
+|[DigitalOutput](./DigitalOutput4ch)  |GPIO    |Isolated output  |
+|[DigitalInput](./DigitalInput4ch)   |GPIO    |Isolated input   |
 |      |    |(We will increase the lineup in the future...)   |
 <!--|CurrentSensor  |Analog  |Current measurement using CT  |
 |SigTowSensor   |Analog  |Detect tower light status   |
