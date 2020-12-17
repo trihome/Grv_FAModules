@@ -3,15 +3,15 @@
 Digital Output for GROVE Digital.
 Isolated outputs.
 
-[Schematic](./doc/img/DigitalOutput4ch.pdf)
+[Schematic](./img/DigitalOutput4ch.pdf)
 
 **Notes**
 
 Please import this library before using this repository.
 https://github.com/trihome/KiCad_MyLibrary
 
-![do00](./doc/img/DigitalOutput4ch_00.jpg "3D")
-![do01](./doc/img/DigitalOutput4ch_01.jpg "Usage")
+![do00](./img/DigitalOutput4ch_00.jpg "3D")
+![do01](./img/DigitalOutput4ch_01.jpg "Usage")
 
 ## 1.Spec
 

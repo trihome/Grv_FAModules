@@ -3,15 +3,15 @@
 Digital Input for GROVE Digital.
 Isolated inputs.
 
-[Schematic](./doc/img/DigitalInput4ch.pdf)
+[Schematic](./img/DigitalInput4ch.pdf)
 
 **Notes**
 
 Please import this library before using this repository.
 https://github.com/trihome/KiCad_MyLibrary
 
-![di00](./doc/img/DigitalInput4ch_00.jpg "3D")
-![di01](./doc/img/DigitalInput4ch_01.jpg "Usage")
+![di00](./img/DigitalInput4ch_00.jpg "3D")
+![di01](./img/DigitalInput4ch_01.jpg "Usage")
 
 ## 1.Spec
 

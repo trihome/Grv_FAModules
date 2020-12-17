@@ -13,7 +13,6 @@ _autosave-*
 *-rescue.lib
 *-save.pro
 *-save.kicad_pcb
-*.bin
 *.dcm
 
 # Netlist files (exported from Eeschema)
@@ -22,6 +21,7 @@ _autosave-*
 # Autorouter files (exported from Pcbnew)
 *.dsn
 *.ses
+*.bin
 
 # Exported BOM files
 *.xml
@@ -42,7 +42,7 @@ _autosave-*
 #*.gml
 
 # Ignore Folders
-_bak/*
+_bak/
 _note/
 *.step
 *.bat
